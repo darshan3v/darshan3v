@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darshan3v (Darshan V) i'm quite a begginer but i have experimented,learnt a bit and played with unreal engine, figma,davinci resolve,python
-- 👀 I’m interested in Pretty much into all sorts of coding but particularly i like machine learning,web development
-- 🌱 I’m currently learning djangoframework
-- 💞️ I’m looking to collaborate on making a social media platform, a bit different than existing
+- 👀 I’m interested in Pretty much into all sorts of coding but particularly i like game development, building Dapps, machine learning
+- 🌱 I am learning about building Dapps
+- 💞️ I’m looking to collaborate on making a blockchain based application
 - 📫 You can reach me by mailing at darshanv3v@gmail.com
 
 <!---
